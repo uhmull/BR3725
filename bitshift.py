@@ -5,6 +5,7 @@
 #We can use shifting with binary numbers. We can convert regular number to binary.
 #Left shiffting will multtiply it by two each time you shift it 
 # I am not completly sure but based on this I would guess that a right shift will divide by 2??
+# its very unlikely we will se bitwise operations as its more theory 
 
 def multiply(n):
     n = 1
